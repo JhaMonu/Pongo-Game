@@ -12,6 +12,7 @@ screen.title("Pong Game")
 screen.tracer(0)
 
 turtle = Turtle()
+Hello
 
 
 r_paddle = PADDLE((375, 0))
